@@ -240,7 +240,7 @@
 
 **Most interesting learning**: The most interesting thing I learned was how Round-Robin scheduling works. I learned how processes take turns using the CPU and how Java threads help simulate this process.
 
-**What I would do differently next time**:**What I would do differently next time**: I would organize my work better from the beginning.
+**What I would do differently next time**: I would organize my work better from the beginning.
 ---
 
 # Part B: Reflection (0.5 mark)
